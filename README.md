@@ -1,2 +1,2 @@
 # js_englishChaiAurCode
-a code repo for javascript codingAviraj with channel named chai aur code youtube
+a code repo for javascript codingAviraj with a channel named chai aur code youtube
